@@ -1,0 +1,9 @@
+{
+	"ip":"ModdedOJMinecraft.aternos.me",
+	"port": 25710,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (123) (123)",
+	"login-cmd":"/login (123)"
+}
